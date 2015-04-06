@@ -1,0 +1,11 @@
+http://javaglgames.blogspot.com/2008/12/multitexturing-and-shaders.html MULTI TETURING
+http://www.informit.com/articles/article.aspx?p=770639&seqNum=6 TEXTURE COMBINERS
+google: grass texture
+google: night skybox texture
+http://www.3dxo.com/textures/5325_grass_32 GRASS
+http://www.3dxo.com/textures/grounds_floors?lnr=1 FLRS
+http://forum.unity3d.com/threads/67938-Skybox-4096-lot-of-hi-quality-skyboxes BEAUTY SKY
+http://gamebanana.com/textures/201 AIRSKY
+http://gamebanana.com/textures/327 NIGHTSKY
+http://gamebanana.com/textures/download/131 DARKSUNSET
+http://gamebanana.com/textures/download/157 WINTERSKY
